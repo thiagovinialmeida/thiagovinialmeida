@@ -11,14 +11,13 @@
 
 ### ⚡ Conhecimentos:
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovinialmeida&layout=compact)
-
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCss">
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovinialmeida&layout=compact)<br>
 
 A paixão de hoje criará o futuro amanhã!

@@ -2,15 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A1BD4&repeat=false&width=435&lines=%F0%9F%93%96+Sobre+mim%3A)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250px" align="right">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-vinicius-867069312/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](th.vinialmeida@gmail.com)
 
-<div display="flex" align="center" gap="20px">
-    <p align="left" width="350px">💻 Estudante de Análise e Desenvolvimento de Software com foco em desenvolvimento Backend. Tenho expertise em C# com .NET Core e Entity Framework para criar sistemas de alta performance e escaláveis. Além disso, possuo experiência e busco aprimorar meu conhecimento em Java com Spring Boot, o que me permite desenvolver soluções robustas em diferentes ecossistemas. Facilidade para trabalhar em equipe, busco sempre aprender novas tecnologias para entregar soluções inovadoras e de alta qualidade.</p>
-    
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250px">
-    
-</div>
+<p align="justify" width="350px">💻 Estudante de Análise e Desenvolvimento de Software com foco em desenvolvimento Backend. Tenho expertise em C# com .NET Core e Entity Framework para criar sistemas de alta performance e escaláveis. Além disso, possuo experiência e busco aprimorar meu conhecimento em Java com Spring Boot, o que me permite desenvolver soluções robustas em diferentes ecossistemas. Facilidade para trabalhar em equipe, busco sempre aprender novas tecnologias para entregar soluções inovadoras e de alta qualidade.</p>
+
+<hr>
  
 <h3 style="font-family: Arial, sans-serif; color: #8A1BD4; line-height: 2;">🔥 Tecnologias que mais utilizo no dia a dia:</h3>
 

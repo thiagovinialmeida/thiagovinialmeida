@@ -39,8 +39,11 @@
 <hr >
 
 <a href="https://github.com/thiagovinialmeida/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagovinialmeida&line_height=30&card_width=330&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=8A1BD4FF&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=false" alt="Most Used Languages">
-  </a>
+    <img align="left" height=194 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovinialmeida&&size_weight=0.5&count_weight=0.5&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=8A1BD4FF&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=false&hide=css">
+</a>
+<a href="https://github.com/thiagovinialmeida/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=thiagovinialmeida&show_icons=true&title_color=8A1BD4FF&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&&theme=tokyonight">
+</a>
 
 <hr>
 
